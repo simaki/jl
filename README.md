@@ -1,3 +1,3 @@
 ```sh
-curl -L git.io/JIRSS | pbcopy
+!curl -L git.io/JIRSS | pbcopy
 ```
