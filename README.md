@@ -1,3 +1,3 @@
 ```sh
-curl https://raw.githubusercontent.com/simaki/jl/main/go.py | pbcopy
+curl https://git.io/JIRSS | pbcopy
 ```
